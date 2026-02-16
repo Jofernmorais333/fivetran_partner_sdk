@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@grpc/grpc-js": "^1.11.1",
-    "esbuild": "^0.23.0",
+    "esbuild": "^0.27.2",
     "path": "^0.12.7",
     "stream": "^0.0.3"
   }
